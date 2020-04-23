@@ -1,0 +1,26 @@
+{
+  "name": "k8s-frontend",
+  "version": "1.0.0",
+  "description": "\"testing kubernetes cluster with restful api in the backend\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bukhbayar/k8s-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bukhbayar/k8s-frontend/issues"
+  },
+  "homepage": "https://github.com/bukhbayar/k8s-frontend#readme",
+  "dependencies": {
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
